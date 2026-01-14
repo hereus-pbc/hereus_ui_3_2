@@ -1,3 +1,3 @@
-# hereus_ui_3_2
+Repository has moved to GitLab:
 
-HereUS UI 3.2 for BevyFrame
+https://gitlab.com/hereus/ui/3.2
